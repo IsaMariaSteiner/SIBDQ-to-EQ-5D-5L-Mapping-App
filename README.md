@@ -12,13 +12,29 @@ You can access the live version of the application [here](https://www.bwl.uni-ha
 
 ## Getting Started
 
-To run the application locally or deploy it on your own server, follow these steps:
+To run the application locally, follow these steps:
 
 1. Clone the repository: 
 ```
 git clone https://github.com/IsaMariaSteiner/SIBDQ-to-EQ-5D-5L-Mapping-App.git
 ```
 
+2. Make sure you have R and R Shiny installed.
+
+3. Open the file Code_Shiny_App.R
+
+3. Install the required packages.
+
+4. Run the app:
+```
+runApp('Code_Shiny_App.R')
+```
 
 
+## Contributing
 
+We welcome contributions to improve this application. If you have any suggestions, bug reports, or feature requests, please submit them as issues on this repository.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
