@@ -15,7 +15,10 @@ You can access the live version of the application [here](https://www.bwl.uni-ha
 To run the application locally or deploy it on your own server, follow these steps:
 
 1. Clone the repository: 
-```git clone https://github.com/IsaMariaSteiner/SIBDQ-to-EQ-5D-5L-Mapping-App.git```
+```
+git clone https://github.com/IsaMariaSteiner/SIBDQ-to-EQ-5D-5L-Mapping-App.git
+```
+
 
 
 
